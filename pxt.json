@@ -1,0 +1,14 @@
+{
+  "name": "pico-modem",
+  "version": "0.0.1",
+  "description": "AT-style Wi-Fi/MQTT modem blocks for Raspberry Pi Pico W",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "public": true,
+  "license": "MIT"
+}
